@@ -1,4 +1,4 @@
-set(header_path "${${PROJECT_NAME}_SOURCE_DIR}/include/${PROJECT_NAME}")
+set(header_path "${${PROJECT_NAME}_SOURCE_DIR}/source/header/${PROJECT_NAME}")
 set(header ${header_path}/${PROJECT_NAME}.h)
 set(src ${PROJECT_NAME}.cpp)
 
